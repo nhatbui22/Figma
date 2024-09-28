@@ -3,9 +3,10 @@
 }
 
 html {
-  font-size: 62.5%;
+  font-size: 0.625;
 }
 
 body {
   font-size: 1.6rem;
+  font-family: "Poppins", sans-serif;
 }
