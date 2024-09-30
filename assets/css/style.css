@@ -179,6 +179,13 @@ a {
   line-height: 1.86; /* 185.714% */
 }
 
+.hero .title {
+  color: #171100;
+  font-size: 1.8re;
+  font-weight: 600;
+  line-height: 1.67; /* 166.667% */
+}
+
 /* ========= hero right ============== */
 .hero .content-block {
   width: 52%;
