@@ -276,7 +276,8 @@ a {
 
 /* ===================popular=================== */
 .popular {
-  padding: 200px 135px;
+  padding: 65px 0;
+  margin-top: 135px;
 }
 
 .popular-top .control {
